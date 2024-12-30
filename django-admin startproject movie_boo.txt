@@ -1,0 +1,3 @@
+django-admin startproject movie_booking
+cd movie_booking
+python manage.py startapp bookings
